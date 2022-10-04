@@ -6,7 +6,7 @@ Estimated workload of this exercise is _30 min_.
 
 ### Description
 
-Please, proceed to the [QuadraticEquation](src/main/java/com/epam/rd/autotasks/QuadraticEquation.java)
+Please, proceed to the [QuadraticEquation](src/main/java/com/epam/training/student_dmitry_shamko/QuadraticEquation.java)
 class and implement a program to solve quadratic equations.
 
 For the given quadratic equation coefficients (**ax<sup>2</sup> + bx + c = 0**),

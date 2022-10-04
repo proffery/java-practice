@@ -6,7 +6,7 @@ Estimated workload of this exercise is _30 min_.
 
 ### Description
 
-Please, proceed to the [LocalMaximaRemove](src/main/java/com/epam/rd/autotasks/arrays/LocalMaximaRemove.java) class and
+Please, proceed to the [LocalMaximaRemove](src/main/java/com/epam/training/student_dmitry_shamko/LocalMaximaRemove.java) class and
 implement the `removeLocalMaxima` method.
 
 The correct implementation should receive an array of `int` values 

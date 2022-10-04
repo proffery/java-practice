@@ -5,7 +5,7 @@
 Примерное время выполнения задания: _60 мин_.
 
 ### Описание 
-Реализуйте методы в классе [Direction](src/main/java/com/epam/rd/autotasks/Direction.java):
+Реализуйте методы в классе [Direction](src/main/java/com/epam/training/student_dmitry_shamko/Direction.java):
 - `ofDegrees` - возвращает экземпляр Direction по входным градусам, либо же значение `null`, если его нет. 
 - `closestToDegrees` - возвращает ближайший к входным градусам экземпляр Direction.
 - `opposite` - возвращает противоположный указанному экземпляр Direction.

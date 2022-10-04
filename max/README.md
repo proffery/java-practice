@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with arrays.
 Estimated workload of this exercise is _20 min_.
 
 ### Description
-Please, proceed to the [`MaxMethod`](src/main/java/com/epam/rd/autotasks/max/MaxMethod.java) class
+Please, proceed to the [`MaxMethod`](src/main/java/com/epam/training/student_dmitry_shamko/MaxMethod.java) class
 and implement the `max` method. 
 
 The correct implementation should receive an array of `int` values and return its maximum value.

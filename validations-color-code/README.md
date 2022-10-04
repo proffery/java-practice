@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with string values.
 Estimated workload of this exercise is _45 min_.
 
 ### Description
-Please, implement `validateColorCode` method in [`ColorCodeValidation`](src/main/java/com/epam/rd/autotasks/validations/ColorCodeValidation.java):
+Please, implement `validateColorCode` method in [`ColorCodeValidation`](src/main/java/com/epam/training/student_dmitry_shamko/ColorCodeValidation.java):
 
 This method checks the input string for compliance with the rules for writing [HTML Color Codes](https://htmlcolorcodes.com/).
 

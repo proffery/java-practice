@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with exceptions, to raise t
 Estimated workload of this exercise is _30 min_.
 
 ### Description
-Please, implement [Requirements](src/main/java/com/epam/rd/autotasks/requirements/Requirements.java) methods: 
+Please, implement [Requirements](src/main/java/com/epam/training/student_dmitry_shamko/Requirements.java) methods: 
 1. `requireNonNull(Object)` should throw new NullPointerException if object is `null`
 1. `requireNonNull(Object, String)` should throw new NullPointerException with message if object is `null`
 1. `checkArgument(boolean)` if boolean is `false` should throw new IllegalArgumentException 

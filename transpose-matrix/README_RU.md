@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 45 минут.
 
 ### Описание
-Перейдите в класс [`TransposeMatrix`](src/main/java/com/epam/rd/autotasks/matrices/TransposeMatrix.java)
+Перейдите в класс [`TransposeMatrix`](src/main/java/com/epam/training/student_dmitry_shamko/TransposeMatrix.java)
 и реализуйте метод `multiply`. 
 
 Метод принимает в качестве параметра прямоугольный целочисленный массив (матрицу) и возвращает его транспонированным.

@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with arrays.
 Estimated workload of this exercise is _45 min_.
 
 ### Description
-Please, proceed to [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java)
+Please, proceed to [`Spiral`](src/main/java/com/epam/training/student_dmitry_shamko/Spiral.java)
 class and implement its static method:
 
 * `int[][] spiral(int rows, int columns)`\

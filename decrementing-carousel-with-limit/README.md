@@ -10,8 +10,8 @@ Details are specified in [DC.md](DC.md).
 
 ### Description
 
-In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/rd/autotasks/DecrementingCarousel.java).
-You need to implement [`DecrementingCarouselWithLimitedRun`](src/main/java/com/epam/rd/autotasks/DecrementingCarouselWithLimitedRun.java).
+In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/training/student_dmitry_shamko/DecrementingCarousel.java).
+You need to implement [`DecrementingCarouselWithLimitedRun`](src/main/java/com/epam/training/student_dmitry_shamko/DecrementingCarouselWithLimitedRun.java).
 This subclass must decrement elements as a usual DecrementingCarousel.
 The difference is that this implementation must produce a carousel run,
 which limits number of calls to the `next` method.

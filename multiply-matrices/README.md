@@ -6,7 +6,7 @@ Estimated workload of this exercise is _60 min_.
 
 ### Description
 
-Please, proceed to [`MultiplyMatrix`](src/main/java/com/epam/rd/autotasks/matrices/MultiplyMatrix.java)
+Please, proceed to [`MultiplyMatrix`](src/main/java/com/epam/training/student_dmitry_shamko/MultiplyMatrix.java)
 class and implement its `multiply` method.
 
 It takes two rectangular integer arrays (matrices) and returns the result of their multiplication.

@@ -6,7 +6,7 @@
 
 ### Описание
 
-Перейдите в класс [FindMaxInSeq](src/main/java/com/epam/rd/autotasks/sequence/FindMaxInSeq.java)
+Перейдите в класс [FindMaxInSeq](src/main/java/com/epam/training/student_dmitry_shamko/FindMaxInSeq.java)
 и напишите программу, которая считывает последовательность целочисленных значений из стандартного вывода и находит максимальное из них. Вы должны поместить свое решение в метод `max`, чтобы пройти тесты. 
 
 Подробности:

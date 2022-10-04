@@ -4,7 +4,7 @@
 Примерное время выполнения задания: _3 часа_.
 
 ### Описание 
-Реализуйте методы в классе [Battleship8x8](src/main/java/com/epam/rd/autotasks/Battleship8x8.java).
+Реализуйте методы в классе [Battleship8x8](src/main/java/com/epam/training/student_dmitry_shamko/Battleship8x8.java).
 
 Battleship8x8 представляет собой карту 8x8 для игры в [Морской бой](https://ru.wikipedia.org/wiki/Морской_бой_(игра)).
 Обратите внимание, что Battleship8x8 использует: 

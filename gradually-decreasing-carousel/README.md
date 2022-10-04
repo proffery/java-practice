@@ -10,8 +10,8 @@ Details are specified in [DC.md](DC.md).
 
 ### Description
 
-In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/rd/autotasks/DecrementingCarousel.java).
-You need to implement [`GraduallyDecreasingCarousel`](src/main/java/com/epam/rd/autotasks/GraduallyDecreasingCarousel.java).
+In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/training/student_dmitry_shamko/DecrementingCarousel.java).
+You need to implement [`GraduallyDecreasingCarousel`](src/main/java/com/epam/training/student_dmitry_shamko/GraduallyDecreasingCarousel.java).
 This subclass must decrement elements by gradually increasing decrement.
 When you need to decrement an element for the first time, decrease it by `1`.
 Next time you need to decrement the same element, decrease it by `2`.

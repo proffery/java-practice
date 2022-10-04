@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with wrapper classes and th
 Estimated workload of this exercise is _3 hours_.
 
 ### Description
-Please, implement methods in [Battleship8x8](src/main/java/com/epam/rd/autotasks/Battleship8x8.java) class.
+Please, implement methods in [Battleship8x8](src/main/java/com/epam/training/student_dmitry_shamko/Battleship8x8.java) class.
 
 Battleship8x8 represents a 8x8 map for [Battleship game](https://en.wikipedia.org/wiki/Battleship_(game)).
 An important detail is that Battleship8x8 uses a `ships` field of long type to store ships locations 

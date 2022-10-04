@@ -7,7 +7,7 @@
 ### Описание 
 
 Реализуйте метод `validateEpamEmail`
-в [`EpamEmailValidation`](src/main/java/com/epam/rd/autotasks/validations/EpamEmailValidation.java):
+в [`EpamEmailValidation`](src/main/java/com/epam/training/student_dmitry_shamko/EpamEmailValidation.java):
 
 Этот метод проверяет входную строку на соответствие правилам для обычного электронного адреса EPAM. Определим их: 
 

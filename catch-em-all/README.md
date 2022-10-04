@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with exceptions, to handle 
 Estimated workload of this exercise is _30 min_.
 
 ### Description
-Please, implement the main method in [CatchEmAll](src/main/java/com/rpam/rd/autotasks/CatchEmAll.java) class.
+Please, implement the main method in [CatchEmAll](src/main/java/com/epam/training/student_dmitry_shamko/CatchEmAll.java) class.
 It must handle a call to a risky method that can throw different types of exceptions.
 
 Please, note that some types of exceptions should be handled, while others – shouldn’t.

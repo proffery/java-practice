@@ -5,7 +5,7 @@
 Примерное время выполнения задания: _30 мин_.
 
 ### Описание 
-Реализуйте метод main в классе [CatchEmAll](src/main/java/com/rpam/rd/autotasks/CatchEmAll.java).
+Реализуйте метод main в классе [CatchEmAll](src/main/java/com/epam/training/student_dmitry_shamko/CatchEmAll.java).
 Он должен обрабатывать вызов метода `riskyMethod`, который может бросать различные типы исключений. 
 
 Обратите внимание, что некоторые типы исключений следует обрабатывать, а другие – нет. 

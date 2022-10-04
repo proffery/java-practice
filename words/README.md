@@ -6,7 +6,7 @@ Estimated workload of this exercise is _60 min_.
 
 ### Description
 
-Please, implement [`StringUtil`](src/main/java/com/epam/rd/autotasks/words/StringUtil.java) class methods:
+Please, implement [`StringUtil`](src/main/java/com/epam/training/student_dmitry_shamko/StringUtil.java) class methods:
 
 #### 1. countEqualIgnoreCaseAndSpaces
 Method signature:
@@ -103,7 +103,7 @@ If `words` is `null` or empty return `null`. `words` is guaranteed to not contai
     - [`StringTokenizer`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/StringTokenizer.html)
 
 ### Examples
-You may use `main` method of [`StringUtil`](src/main/java/com/epam/rd/autotasks/words/StringUtil.java)
+You may use `main` method of [`StringUtil`](src/main/java/com/epam/training/student_dmitry_shamko/StringUtil.java)
 class to test your implementation.
 ```java
 String[] words = new String[] {"   nice ", "nICE", "nic3"};

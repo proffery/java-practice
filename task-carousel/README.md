@@ -6,8 +6,8 @@ Estimated workload of this exercise is _2h_.
 
 ### Description
 
-In this exercise you need to design two implementations of the [`Task`](src/main/java/com/epam/rd/autotasks/Task.java) interface:
-- [`CountDownTask`](src/main/java/com/epam/rd/autotasks/CountDownTask.java):
+In this exercise you need to design two implementations of the [`Task`](src/main/java/com/epam/training/student_dmitry_shamko/Task.java) interface:
+- [`CountDownTask`](src/main/java/com/epam/training/student_dmitry_shamko/CountDownTask.java):
   - The constructor of `CountDownTask` takes a single int value as a parameter.
     It is the initial value of the countdown.
     Input value must not be negative. If it is, set zero value.
@@ -15,14 +15,14 @@ In this exercise you need to design two implementations of the [`Task`](src/main
     Then the `execute` method no longer decrements the value and the task is considered finished.
   - If the task is initialized with zero value, consider it finished right upon creating.
   - Value of the task is accessible via getter.
-- [`CompleteByRequestTask`](src/main/java/com/epam/rd/autotasks/CompleteByRequestTask.java):
+- [`CompleteByRequestTask`](src/main/java/com/epam/training/student_dmitry_shamko/CompleteByRequestTask.java):
   - Constructor of the `CompleteByRequestTask` takes no parameters.
   - Calling `execute` method on the task does not make it finished until the `complete` method is called.
   - Once the `complete` method is called, the next call to `execute` makes the task finished.
     Note that the task is not finished right after calling the `complete` method.
     The task finishes **only** when subsequent call to `execute` occurs.
 
-Also, you need to implement the [`TaskCarousel`](src/main/java/com/epam/rd/autotasks/TaskCarousel.java):
+Also, you need to implement the [`TaskCarousel`](src/main/java/com/epam/training/student_dmitry_shamko/TaskCarousel.java):
 - A task carousel has a capacity provided as a constructor parameter.
 - The `TaskCarousel` has `isEmpty` method.
   It returns `true` if there is no task in the carousel for execution.

@@ -5,4 +5,4 @@
 Примерное время выполнения задания: 5 минут.
 
 ### Описание
-Перейдите в класс [HelloAutocode](src/main/java/com/epam/rd/autotasks/meetautocode/HelloAutocode.java), и напишите простую программу, которая печатает: "Hello, Autocode!" (не печатайте кавычки).
+Перейдите в класс [HelloAutocode](src/main/java/com/epam/training/student_dmitry_shamko/HelloAutocode.java), и напишите простую программу, которая печатает: "Hello, Autocode!" (не печатайте кавычки).

@@ -6,7 +6,7 @@ Estimated workload of this exercise is _45 min_.
 
 ### Description
 
-Please, implement methods of class [`Triangle`](src/main/java/com/epam/rd/autotasks/triangle/Triangle.java):
+Please, implement methods of class [`Triangle`](src/main/java/com/epam/training/student_dmitry_shamko/Triangle.java):
 
 * constructor, which has three points as parameters.\
   Consider these points as vertices of the triangle.\
@@ -17,7 +17,7 @@ Please, implement methods of class [`Triangle`](src/main/java/com/epam/rd/autota
 * `Point centroid()`\
   Return the centroid of the triangle.
 
-Class [`Point`](src/main/java/com/epam/rd/autotasks/triangle/Point.java) is already there.
+Class [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) is already there.
 
 Hints:
 * [Triangle existence reference](https://en.wikipedia.org/wiki/Triangle#Existence_of_a_triangle)

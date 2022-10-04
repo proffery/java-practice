@@ -10,8 +10,8 @@ Details are specified in [DC.md](DC.md).
 
 ### Description
 
-In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/rd/autotasks/DecrementingCarousel.java).
-You need to implement [`HalvingCarousel`](src/main/java/com/epam/rd/autotasks/HalvingCarousel.java).
+In this exercise you need to extend [`DecrementingCarousel`](src/main/java/com/epam/training/student_dmitry_shamko/DecrementingCarousel.java).
+You need to implement [`HalvingCarousel`](src/main/java/com/epam/training/student_dmitry_shamko/HalvingCarousel.java).
 This subclass must halve elements instead of decrementing it by one.
 Note that you need to apply regular integer division, discarding the remainder.
 For example, `5 / 2 = 2`.

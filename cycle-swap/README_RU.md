@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 30 минут.
 
 ### Описание
-Перейдите в класс [`CycleSwap`](src/main/java/com/epam/rd/autotasks/CycleSwap.java) и реализуйте его статические методы:
+Перейдите в класс [`CycleSwap`](src/main/java/com/epam/training/student_dmitry_shamko/CycleSwap.java) и реализуйте его статические методы:
 
 * `void cycleSwap(int[] array)`\
   Сдвигает все элементы в данном массиве вправо на 1 позицию. \

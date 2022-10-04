@@ -6,9 +6,9 @@ Estimated workload of this exercise is _2h_.
 
 ### Description
 
-[`Decrementing Carousel`](src/main/java/com/epam/rd/autotasks/DecrementingCarousel.java) is a container, accepting `int` elements.
+[`Decrementing Carousel`](src/main/java/com/epam/training/student_dmitry_shamko/DecrementingCarousel.java) is a container, accepting `int` elements.
 `DecrementingCarousel` has a maximum capacity, specified via the constructor.
-When created, `DecrementingCarousel` is in accumulating state: you may add elements via the `addElement` method and can produce a [`CarouselRun`](src/main/java/com/epam/rd/autotasks/CarouselRun.java) object via the `run` method.
+When created, `DecrementingCarousel` is in accumulating state: you may add elements via the `addElement` method and can produce a [`CarouselRun`](src/main/java/com/epam/training/student_dmitry_shamko/CarouselRun.java) object via the `run` method.
 Once the `run` method is called, `DecrementingCarousel` is in running state: it refuses adding more elements.
 
 The `CarouselRun` allows to iterate over elements of the carousel decrementing them one by one with the `next` method.

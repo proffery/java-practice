@@ -5,7 +5,7 @@
 Примерное время выполнения задания: _45 мин_.
 
 ### Описание 
-Реализуйте метод `max` класса [`MaxMethod`](src/main/java/com/epam/rd/autotasks/max/MaxMethod.java).
+Реализуйте метод `max` класса [`MaxMethod`](src/main/java/com/epam/training/student_dmitry_shamko/MaxMethod.java).
 
 Правильная реализация должна получить массив значений типа `int` и вернуть его максимальное значение.
 

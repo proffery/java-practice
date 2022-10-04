@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with arrays.
 Estimated workload of this exercise is _20 min_.
 
 ### Description
-Please, proceed to [com.epam.rd.autotasks.arrays.SumOfPrevious](src/main/java/com/epam/rd/autotasks/arrays/SumOfPrevious.java) class
+Please, proceed to [com.epam.training.student_dmitry_shamko.SumOfPrevious](src/main/java/com/epam/training/student_dmitry_shamko/SumOfPrevious.java) class
 and implement `getSumCheckArray` method.
 
 The correct implementation should receive an array of `int` values 

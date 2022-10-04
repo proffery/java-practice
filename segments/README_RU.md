@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 45 минут. 
 
 ### Описание
-Реализуйте следующие методы класса [`Segment`](src/main/java/com/epam/rd/autotasks/segments/Segment.java): 
+Реализуйте следующие методы класса [`Segment`](src/main/java/com/epam/training/student_dmitry_shamko/Segment.java): 
 
 * Конструктор, в который в качестве параметров передаются координаты точек начала и конца отрезка.\
   Убедитесь, что созданный отрезок существует и не является вырожденным - начало и конец отрезка не являются одной и той же точкой.\
@@ -20,7 +20,7 @@
   Возвращает `null`, если отрезки коллинеарны.\
   Обратите внимание, что точка пересечения должна лежать на обоих отрезках.
 
-Класс [`Point`](src/main/java/com/epam/rd/autotasks/segments/Point.java) уже существует. 
+Класс [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) уже существует. 
 
 Полезные ссылки: 
 * [Length reference](https://www.wikihow.com/Use-Distance-Formula-to-Find-the-Length-of-a-Line)

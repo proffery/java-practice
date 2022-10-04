@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with classes and methods.
 Estimated workload of this exercise is _45 min_.
 
 ### Description
-Please, implement the following methods of class [`Segment`](src/main/java/com/epam/rd/autotasks/segments/Segment.java): 
+Please, implement the following methods of class [`Segment`](src/main/java/com/epam/training/student_dmitry_shamko/Segment.java): 
 
 * constructor with start and end points as parameters\
   Ensure that a created segment exists and is not degenerative 
@@ -21,7 +21,7 @@ Please, implement the following methods of class [`Segment`](src/main/java/com/e
   Return `null` if segments are collinear.\
   Please, note that intersection point must lay on both segments.
 
-Class [`Point`](src/main/java/com/epam/rd/autotasks/segments/Point.java) is already there.
+Class [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) is already there.
 
 Hints:
 * [Length reference](https://www.wikihow.com/Use-Distance-Formula-to-Find-the-Length-of-a-Line)

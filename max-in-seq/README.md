@@ -6,7 +6,7 @@ Estimated workload of this exercise is _20 min_.
 
 ### Description
 
-Please, proceed to [FindMaxInSeq](src/main/java/com/epam/rd/autotasks/sequence/FindMaxInSeq.java)
+Please, proceed to [FindMaxInSeq](src/main/java/com/epam/training/student_dmitry_shamko/FindMaxInSeq.java)
 and write a program that reads a sequence of integer values from standard output and finds the maximum value. You must
 place your solution into the `max`  method to pass tests.
 

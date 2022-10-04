@@ -6,7 +6,7 @@
 
 ### Описание
 
-Перейдите в класс [HelloStrangers](src/main/java/com/epam/rd/autotasks/meetstrangers/HelloStrangers.java) и напишите простую программу, которая:
+Перейдите в класс [HelloStrangers](src/main/java/com/epam/training/student_dmitry_shamko/HelloStrangers.java) и напишите простую программу, которая:
 - запрашивает количество незнакомцев, с которыми нужно встретиться
 - построчно читает имена незнакомцев 
 - построчно выводит: "Hello, (имя незнакомца)" для каждого незнакомца.

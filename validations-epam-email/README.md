@@ -7,7 +7,7 @@ Estimated workload of this exercise is _45 min_.
 ### Description
 
 Please, implement `validateEpamEmail` method
-in [`EpamEmailValidation`](src/main/java/com/epam/rd/autotasks/validations/EpamEmailValidation.java):
+in [`EpamEmailValidation`](src/main/java/com/epam/training/student_dmitry_shamko/EpamEmailValidation.java):
 
 This method checks the input string for compliance with the rules for a regular EPAM email. Let us define them:
 

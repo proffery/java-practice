@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 20 минут.
 
 ### Описание
-Перейдите в класс [com.epam.rd.autotasks.arrays.SumOfPrevious](src/main/java/com/epam/rd/autotasks/arrays/SumOfPrevious.java) и реализуйте метод `getSumCheckArray`.
+Перейдите в класс [com.epam.training.student_dmitry_shamko.SumOfPrevious](src/main/java/com/epam/training/student_dmitry_shamko/SumOfPrevious.java) и реализуйте метод `getSumCheckArray`.
 
 Правильная реализация должна получить массив значений `int` и вернуть массив логических значений, где каждый элемент является результатом проверки: является ли соответствующий исходный элемент суммой двух предыдущих элементов в данном массиве.
 

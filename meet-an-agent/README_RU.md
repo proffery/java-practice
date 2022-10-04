@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 20 минут.
 
 ### Описание
-Перейдите в класс [MeetAnAgent](src/main/java/com/epam/rd/autotasks/meetanagent/MeetAnAgent.java) и напишите программу, которая:
+Перейдите в класс [MeetAnAgent](src/main/java/com/epam/training/student_dmitry_shamko/MeetAnAgent.java) и напишите программу, которая:
 - запрашивает на вход число-пароль
 - если оно равно секретному числу, программа выводит: "Hello, agent" 
 - в противном случае печатает: "Access Denied".

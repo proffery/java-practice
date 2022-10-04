@@ -6,7 +6,7 @@ Estimated workload of this exercise is _20 min_.
 
 ### Description
 
-Please, proceed to [HelloStrangers](src/main/java/com/epam/rd/autotasks/meetstrangers/HelloStrangers.java) class
+Please, proceed to [HelloStrangers](src/main/java/com/epam/training/student_dmitry_shamko/HelloStrangers.java) class
 and write a program that:
 - asks for a number - amount of strangers to meet,
 - then reads stranger names line by line 

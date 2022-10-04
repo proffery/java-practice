@@ -5,7 +5,7 @@ The purpose of this exercise is to familiarize you with basic conditional and cy
 Estimated workload of this exercise is _20 minutes_.
 
 ### Description
-Please, proceed to [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) class.
+Please, proceed to [PizzaSplit](src/main/java/com/epam/training/student_dmitry_shamko/PizzaSplit.java) class.
 The program must read two values from `System.in`:
 - number of people;
 - number of pieces per pizza.

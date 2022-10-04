@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 45 мин.
 
 ### Описание 
-Реализуйте метод `validateColorCode` в [`ColorCodeValidation`](src/main/java/com/epam/rd/autotasks/validations/ColorCodeValidation.java):
+Реализуйте метод `validateColorCode` в [`ColorCodeValidation`](src/main/java/com/epam/training/student_dmitry_shamko/ColorCodeValidation.java):
 
 Он проверяет входную строку на соответствие правилам написания [HTML Color Codes](https://htmlcolorcodes.com/).
 

@@ -12,7 +12,7 @@ They decided to equally split the bill.
 Friends decided to add 10 percent of the bill total amount as tips.
 Then they cover the total payment in equal parts.
 
-Please, proceed to [GoDutch](./src/main/java/com/epam/rd/autotasks/godutch/GoDutch.java) class
+Please, proceed to [GoDutch](src/main/java/com/epam/training/student_dmitry_shamko/GoDutch.java) class
 and write a program that reads a bill total amount and a number of friends, and then prints part to pay.
 
 Consider some details:

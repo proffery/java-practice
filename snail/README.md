@@ -6,7 +6,7 @@ Estimated workload of this exercise is _30 min_.
 ### Description
 Consider a snail travels up a tree `a` feet each day. Then snail slides down `b` feet each night. Height of the tree is `h` feet.
 
-Please, proceed to [Snail](/src/main/java/com/epam/rd/autotasks/snail/Snail.java) class 
+Please, proceed to [Snail](/com/epam/training/student_dmitry_shamko/Snail.java) class 
 and write a program that prints number of days for the snail to reach the top of the tree.
 
 Program reads `a`, `b`, `h` line by line. Input values are guaranteed to be positive integers.

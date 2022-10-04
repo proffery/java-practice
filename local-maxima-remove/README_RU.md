@@ -6,7 +6,7 @@
 
 ### Описание
 
-Перейдите в класс [LocalMaximaRemove](src/main/java/com/epam/rd/autotasks/arrays/LocalMaximaRemove.java) и реализуйте метод `removeLocalMaxima`.
+Перейдите в класс [LocalMaximaRemove](src/main/java/com/epam/training/student_dmitry_shamko/LocalMaximaRemove.java) и реализуйте метод `removeLocalMaxima`.
 
 Правильная реализация должна получить массив значений типа  `int` и вернуть копию данного массива со всеми удаленными локальными максимумами. Исходный массив изменять нельзя.
 

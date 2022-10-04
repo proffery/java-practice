@@ -6,7 +6,7 @@
 
 ### Описание
 
-Перейдите в класс [SumOfEvenNumbers](src/main/java/com/epam/rd/autotasks/arrays/SumOfEvenNumbers.java) и реализуйте метод `sum`.
+Перейдите в класс [SumOfEvenNumbers](src/main/java/com/epam/training/student_dmitry_shamko/SumOfEvenNumbers.java) и реализуйте метод `sum`.
 
 Правильная реализация должна получить массив значений `int` и вернуть сумму четных чисел.
 

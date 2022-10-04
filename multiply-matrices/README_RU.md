@@ -6,7 +6,7 @@
 
 ### Описание
 
-Перейдите в класс [`MultiplyMatrix`](src/main/java/com/epam/rd/autotasks/matrices/MultiplyMatrix.java)
+Перейдите в класс [`MultiplyMatrix`](src/main/java/com/epam/training/student_dmitry_shamko/MultiplyMatrix.java)
 и реализуйте метод `multiply`.
 
 Метод берет два прямоугольных целочисленных массива (матрицы) и возвращает результат их умножения. 

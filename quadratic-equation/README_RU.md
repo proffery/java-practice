@@ -6,7 +6,7 @@
 
 ### Описание
 
-Перейдите в класс [QuadraticEquation](src/main/java/com/epam/rd/autotasks/QuadraticEquation.java)
+Перейдите в класс [QuadraticEquation](src/main/java/com/epam/training/student_dmitry_shamko/QuadraticEquation.java)
 и напишите программу для решения квадратных уравнений. 
 
 Для заданных коэффициентов квадратного уравнения (**ax<sup>2</sup> + bx + c = 0**),

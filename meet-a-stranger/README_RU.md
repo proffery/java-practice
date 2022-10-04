@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 5 минут.
 
 ### Описание
-Перейдите в класс [MeetAStranger](src/main/java/com/epam/rd/autotasks/meetastranger/MeetAStranger.java) и напишите программу, которая прочтет строку из `System.in` и выведет сообщение: "Hello, *прочитанная строка*".
+Перейдите в класс [MeetAStranger](src/main/java/com/epam/training/student_dmitry_shamko/MeetAStranger.java) и напишите программу, которая прочтет строку из `System.in` и выведет сообщение: "Hello, *прочитанная строка*".
 
 Если во входной строке несколько слов, нужно напечатать их все.
 

@@ -6,7 +6,7 @@
 
 ### Описание
 
-Реализуйте методы класса  [`Triangle`](src/main/java/com/epam/rd/autotasks/triangle/Triangle.java):
+Реализуйте методы класса  [`Triangle`](src/main/java/com/epam/training/student_dmitry_shamko/Triangle.java):
 
 * Конструктор, принимающий в качестве параметров координаты трех вершин.\
   Проверьте, что созданный треугольник существует и не является вырожденным.\
@@ -16,7 +16,7 @@
 * `Point centroid()`\
   Возвращает центроид треугольника.
 
-Класс [`Point`](src/main/java/com/epam/rd/autotasks/triangle/Point.java) уже существует. 
+Класс [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) уже существует. 
 
 Полезные ссылки: 
 * [Triangle existence reference](https://en.wikipedia.org/wiki/Triangle#Existence_of_a_triangle)

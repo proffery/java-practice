@@ -6,7 +6,7 @@ Estimated workload of this exercise is _30 minutes_.
 
 ### Description
 
-Please, proceed to [ElectronicWatch](src/main/java/com/epam/rd/autotasks/meetautocode/ElectronicWatch.java) class.
+Please, proceed to [ElectronicWatch](src/main/java/com/epam/training/student_dmitry_shamko/ElectronicWatch.java) class.
 The program must print an electronic watch screen output for a given value of seconds since midnight.
 
 Input value is given via `System.in`. Output value must be printed to `System.out`

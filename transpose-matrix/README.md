@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with arrays.
 Estimated workload of this exercise is _45 min_.
 
 ### Description
-Please, proceed to [`TransposeMatrix`](src/main/java/com/epam/rd/autotasks/matrices/TransposeMatrix.java)
+Please, proceed to [`TransposeMatrix`](src/main/java/com/epam/training/student_dmitry_shamko/TransposeMatrix.java)
 class an implement its method `multiply`. 
 
 It takes a rectangular integer array (matrix) as a parameter and returns it transposed.

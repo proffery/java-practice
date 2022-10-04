@@ -5,9 +5,9 @@
 Примерное время выполнения задания:60 мин. 
 
 ### Описание
-Нужно сделать так, чтобы классы  [`Triangle`](src/main/java/com/epam/rd/autotasks/figures/Triangle.java),
-[`Quadrilateral`](src/main/java/com/epam/rd/autotasks/figures/Quadrilateral.java),
-[`Circle`](src/main/java/com/epam/rd/autotasks/figures/Circle.java) расширяли абстрактный класс [`Figure`](src/main/java/com/epam/rd/autotasks/figures/Figure.java).
+Нужно сделать так, чтобы классы  [`Triangle`](src/main/java/com/epam/training/student_dmitry_shamko/Triangle.java),
+[`Quadrilateral`](src/main/java/com/epam/training/student_dmitry_shamko/Quadrilateral.java),
+[`Circle`](src/main/java/com/epam/training/student_dmitry_shamko/Circle.java) расширяли абстрактный класс [`Figure`](src/main/java/com/epam/training/student_dmitry_shamko/Figure.java).
 
 Реализуйте методы классов `Triangle`, `Quadrilateral`, `Circle`:
 
@@ -35,7 +35,7 @@
         * Формат: `(center.x,center.y)`
         * Пример: `(0.0,0.6)`
         
-    *Примечание:* можно реализовать toString () в классе [`Point`](src/main/java/com/epam/rd/autotasks/figures/Point.java).
+    *Примечание:* можно реализовать toString () в классе [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java).
 
 4. `public String toString()`\
     Возвращает значение String в следующих форматах: 
@@ -55,7 +55,7 @@
    Возвращает крайнюю левую точку фигуры: ту, которая имеет наименьшую координату `X`.\
    Если крайних левых точек много, возвращает любую из них.  
 
-Класс [`Point`](src/main/java/com/epam/rd/autotasks/figures/Point.java) уже реализован.
+Класс [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) уже реализован.
 
 Полезные ссылки:
 * [Degeneracy reference](https://en.wikipedia.org/wiki/Degeneracy_(mathematics))

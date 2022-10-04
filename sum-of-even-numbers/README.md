@@ -6,7 +6,7 @@ Estimated workload of this exercise is _20 min_.
 
 ### Description
 
-Please, proceed to the [SumOfEvenNumbers](src/main/java/com/epam/rd/autotasks/arrays/SumOfEvenNumbers.java) class and
+Please, proceed to the [SumOfEvenNumbers](src/main/java/com/epam/training/student_dmitry_shamko/SumOfEvenNumbers.java) class and
 implement the `sum` method.
 
 The correct implementation should receive an array of `int` values and return the sum of even numbers.

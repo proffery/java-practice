@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 45 минут.
 
 ### Описание
-Перейдите в класс [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java)
+Перейдите в класс [`Spiral`](src/main/java/com/epam/training/student_dmitry_shamko/Spiral.java)
 и реализуйте его статический метод:
 
 * `int[][] spiral(int rows, int columns)`\

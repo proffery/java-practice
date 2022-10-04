@@ -5,10 +5,10 @@ The purpose of this exercise is to train you to work with classes, methods and i
 Estimated workload of this exercise is _60 min_.
 
 ### Description
-Please, make [`Triangle`](src/main/java/com/epam/rd/autotasks/figures/Triangle.java),
-[`Quadrilateral`](src/main/java/com/epam/rd/autotasks/figures/Quadrilateral.java),
-[`Circle`](src/main/java/com/epam/rd/autotasks/figures/Circle.java) classes
-extend [`Figure`](src/main/java/com/epam/rd/autotasks/figures/Figure.java) abstract class.
+Please, make [`Triangle`](src/main/java/com/epam/training/student_dmitry_shamko/Triangle.java),
+[`Quadrilateral`](src/main/java/com/epam/training/student_dmitry_shamko/Quadrilateral.java),
+[`Circle`](src/main/java/com/epam/training/student_dmitry_shamko/Circle.java) classes
+extend [`Figure`](src/main/java/com/epam/training/student_dmitry_shamko/Figure.java) abstract class.
 
 Implement methods in `Triangle`, `Quadrilateral`, `Circle`:
 
@@ -36,7 +36,7 @@ Implement methods in `Triangle`, `Quadrilateral`, `Circle`:
         * Format: `(center.x,center.y)`
         * Example: `(0.0,0.6)`
         
-    *Note:*: you may benefit from implementing toString() in the [`Point`](src/main/java/com/epam/rd/autotasks/figures/Point.java) class
+    *Note:*: you may benefit from implementing toString() in the [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) class
 
 1. `public String toString()`\
     Return a String value in following formats:
@@ -56,7 +56,7 @@ Implement methods in `Triangle`, `Quadrilateral`, `Circle`:
    Return a leftmost point of the figure: the one having the least `X` coordinate.\
    If there are many leftmost points, return any of them. 
 
-[`Point`](src/main/java/com/epam/rd/autotasks/figures/Point.java) class is already there.
+[`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java) class is already there.
 
 Hints:
 * [Degeneracy reference](https://en.wikipedia.org/wiki/Degeneracy_(mathematics))

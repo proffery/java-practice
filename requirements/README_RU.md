@@ -5,7 +5,7 @@
 Примерное время выполнения задания: _30 мин_. 
 
 ### Описание 
-Реализуйте методы класса [Requirements](src/main/java/com/epam/rd/autotasks/requirements/Requirements.java): 
+Реализуйте методы класса [Requirements](src/main/java/com/epam/training/student_dmitry_shamko/Requirements.java): 
 1. `requireNonNull(Object)` должен генерировать исключение NullPointerException, если объект равен `null`
 1. `requireNonNull(Object, String)` должен генерировать исключение NullPointerException с сообщением, если объект имеет значение `null`
 1. `checkArgument(boolean)` должен вызывать исключение IllegalArgumentException, если значение параметра `false`

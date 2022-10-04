@@ -5,7 +5,7 @@
 Примерное время выполнения задания: 20 минут.
 
 ### Описание
-Перейдите в класс [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) и напишите программу, которая должна прочитать два значения из `System.in`:
+Перейдите в класс [PizzaSplit](src/main/java/com/epam/training/student_dmitry_shamko/PizzaSplit.java) и напишите программу, которая должна прочитать два значения из `System.in`:
 - количество людей
 - количество кусочков в одной пицце.
 

@@ -5,7 +5,7 @@ The purpose of this exercise is to familiarize you with simple conditional state
 Estimated workload of this exercise is _20 min_.
 
 ### Description
-Please, proceed to [MeetAnAgent](src/main/java/com/epam/rd/autotasks/meetanagent/MeetAnAgent.java) class
+Please, proceed to [MeetAnAgent](src/main/java/com/epam/training/student_dmitry_shamko/MeetAnAgent.java) class
 and write a program that:
 - asks for an input number,
 - if the input equals to the secret password number, prints "Hello, Agent",

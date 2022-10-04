@@ -6,8 +6,8 @@
 
 ### Описание
 
-Вам необходимо реализовать метод `intersection(Line)` в классе [`Line`](src/main/java/com/epam/rd/autotasks/intersection/Line.java).
-Он должен возвращать точку пересечения двух линий [`Point`](src/main/java/com/epam/rd/autotasks/intersection/Point.java).
+Вам необходимо реализовать метод `intersection(Line)` в классе [`Line`](src/main/java/com/epam/training/student_dmitry_shamko/Line.java).
+Он должен возвращать точку пересечения двух линий [`Point`](src/main/java/com/epam/training/student_dmitry_shamko/Point.java).
 
 Обратите внимание, что линии определяются линейными уравнениями: `y = k * x + b`.
 Конструктор `Line` принимает в качестве параметров коэффициенты `k` и `b`.
@@ -16,7 +16,7 @@
 Вас может удивить, что в задании используется `int` для аргументов и полей координат. 
 Дело в том, что использование `double` внесет некоторые дополнительные сложности, которых авторы хотели избежать в этом базовом упражнении. Все тесты выбраны так, чтобы производить вычисления без остатков.
 
-Вы можете проверить свой результат в классе [`Main`](src/main/java/com/epam/rd/autotasks/intersection/Main.java).
+Вы можете проверить свой результат в классе [`Main`](src/main/java/com/epam/training/student_dmitry_shamko/Main.java).
 
 ### Пример
 

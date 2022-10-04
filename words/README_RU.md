@@ -6,7 +6,7 @@
 
 ### Описание
 
-Реализуйте методы класса [`StringUtil`](src/main/java/com/epam/rd/autotasks/words/StringUtil.java):
+Реализуйте методы класса [`StringUtil`](src/main/java/com/epam/training/student_dmitry_shamko/StringUtil.java):
 
 #### 1. countEqualIgnoreCaseAndSpaces
 Сигнатура метода:
@@ -102,7 +102,7 @@ public static String joinWords(String[] words)
     - [`StringTokenizer`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/StringTokenizer.html)
 
 ### Примеры 
-Вы можете использовать метод `main` класса [`StringUtil`](src/main/java/com/epam/rd/autotasks/words/StringUtil.java)
+Вы можете использовать метод `main` класса [`StringUtil`](src/main/java/com/epam/training/student_dmitry_shamko/StringUtil.java)
 для проверки реализации.
 
 ```java
